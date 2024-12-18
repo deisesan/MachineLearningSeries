@@ -14,8 +14,8 @@ from sklearn.preprocessing import LabelEncoder
 labelencoder_X = LabelEncoder()
 X[:,0] = labelencoder_X.fit_transform(X[:,0])
 
-X = X[:,1:]
 D = pd.get_dummies(X[:,0], dtype=int)
+X = X[:,1:]
 X = np.insert(X, 0, D.values, axis=1)
 
 from sklearn.model_selection import train_test_split
