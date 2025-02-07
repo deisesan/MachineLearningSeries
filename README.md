@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # MachineLearningSeries  
 
 Repositório criado para compartilhar os projetos desenvolvidos ao longo do Curso Completo de **Machine Learning** do canal [Universo Discreto](https://www.youtube.com/@UniversoDiscreto).  
