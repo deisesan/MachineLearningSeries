@@ -26,4 +26,3 @@ Repositório criado para compartilhar os projetos desenvolvidos ao longo do Curs
 
 ## 🛠️ Projetos  
 Cada pasta deste repositório contém os projetos e códigos desenvolvidos em cada episódio.  
->>>>>>> Stashed changes
